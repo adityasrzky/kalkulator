@@ -1,4 +1,4 @@
 # kalkulator
 
-Ini adalah aplikasi matematika sederhana
-created by Aditya
+Ini adalah aplikasi matematika kalkulator sederhana
+created by Aditya branch-1
